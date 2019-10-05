@@ -6,4 +6,4 @@ Aplication was created with ReactJS and YouTube API.
 
 The aplication lists the last 10 videos that have been uploaded to a channel.
 
-Live demo: 
+Live demo: http://bit.ly/react-tube
